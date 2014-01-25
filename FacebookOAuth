@@ -1,0 +1,4 @@
+https://www.facebook.com/dialog/oauth?
+    client_id={app-id}
+   &redirect_uri={redirect-uri}
+   scope=publish_actions
